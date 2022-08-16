@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 Working on:
--2 Websites
--Script automation
--API project
+- 2 Websites
+- Script automation
+- API project
